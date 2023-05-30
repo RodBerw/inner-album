@@ -1,0 +1,25 @@
+.title {
+  width: 100%;
+  font-family: "Alfa Slab";
+  font-size: 72pt;
+  text-align: center;
+  letter-spacing: 5px;
+  color: #cf1136;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding-top: 250px;
+}
+
+.light {
+  text-shadow: 0px 0px 5vw #ff6f91;
+  position: relative;
+  bottom: 400px;
+  color: bisque;
+  height: 50px;
+  margin: 0;
+}
+
+.container {
+  max-height: 100px;
+  background-color: black;
+}
